@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/audio-card.svg</file>
+        <file>icons/audio-duplex.svg</file>
+        <file>icons/audio-input-microphone.svg</file>
+        <file>icons/audio-volume-high.svg</file>
+        <file>icons/audio-volume-muted.svg</file>
+        <file>icons/audio-volume-unavailable.svg</file>
+        <file>icons/changes-allow.svg</file>
+        <file>icons/changes-prevent.svg</file>
+        <file>icons/dialog-warning.svg</file>
+        <file>icons/dialog-warning_active.svg</file>
+        <file>icons/document-open.svg</file>
+        <file>icons/document-save.svg</file>
+        <file>icons/emblem-ok.svg</file>
+        <file>icons/help-about.svg</file>
+        <file>icons/list-add.svg</file>
+        <file>icons/list-add_active.svg</file>
+        <file>icons/microphone-disabled.svg</file>
+        <file>icons/preferences-desktop-display-microphone.svg</file>
+        <file>icons/preferences-desktop-display-speaker.svg</file>
+        <file>icons/preferences-desktop-display.svg</file>
+        <file>icons/process-stop.svg</file>
+        <file>icons/process-stop_active.svg</file>
+        <file>icons/view-refresh.svg</file>
+    </qresource>
+</RCC>
